@@ -1,10 +1,10 @@
-# Basic Contact Form
+# Basic Login Page
 
-A Basic Contact Form written in **HTML**, **CSS**, and **JavaScript**.
+A Basic Login Page written in **HTML**, **CSS**, and **JavaScript**.
 
 ### Use of the Project:
 
-This basic contact form can be added to any website to make it more interactive and attractive.
+This basic login page can be added to any website to make it more interactive and attractive.
 
 ### Used Technologies:
 
