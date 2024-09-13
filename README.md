@@ -1,36 +1,49 @@
-<h1>Basic Contact Form</h1>
+# Basic Contact Form
 
-<p>A Basic Contact Form written in HTML, CSS and JAVASCRIPT .</p>
+A Basic Contact Form written in **HTML**, **CSS**, and **JavaScript**.
 
 ### Use of the Project:
 
-<p>This basic contact form can be added to any website to make it attractive. </p>
+This basic contact form can be added to any website to make it more interactive and attractive.
 
-<h3>Used Technologies</h3>
-<ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-</ul>
+### Used Technologies:
 
-#### Steps to Use:
+- HTML5
+- CSS3
+- JavaScript
 
----
+### Steps to Use:
 
-- Download or clone the repository
+- Download or clone the repository:
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
+  ```bash
+  git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+  ```
 
 - Go to the directory
 - Run the index.html file
 - Result is here!!!
 
-<h3> Screenshot:</h3>
-<img src="" alt="Screenshot" style="max-width:100%;">
+- Go to the directory
+- Run the index.html file
+- Result is here!!!
 
-<h3> Demo </h3>
-<a href="">Demo</a>
+## Screenshot
 
-<br>
+<img src="https://github.com/xshshahab/LoginPage/blob/main/images/Auth.png" alt="Screenshot" style="max-width:100%;">
+
+## Live Preview
+
+<a target="_blank" href="https://xshshahab.github.io/LoginPage/">Click Here!!</a>
+
+## Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xshshahab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshahbuddin82/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xsh_shahab)
+
+Feel free to reach out and connect with me!
+
+## Thank You!
+
+Thank you for visiting my profile! I truly appreciate your time and interest in my work. Let's stay connected and keep building great things together! 🚀
