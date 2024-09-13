@@ -24,10 +24,6 @@ This basic contact form can be added to any website to make it more interactive 
 - Run the index.html file
 - Result is here!!!
 
-- Go to the directory
-- Run the index.html file
-- Result is here!!!
-
 ## Screenshot
 
 <img src="https://github.com/xshshahab/LoginPage/blob/main/images/Auth.png" alt="Screenshot" style="max-width:100%;">
