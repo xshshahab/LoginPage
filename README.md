@@ -1,4 +1,4 @@
-# Basic Login Page
+# A beautiful Login Page with a minimal navbar.
 
 A Basic Login Page written in **HTML**, **CSS**, and **JavaScript**.
 
